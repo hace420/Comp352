@@ -1,0 +1,37 @@
+
+Exponential Calculator ouput of the 20th index is:  46499 with a runtime of: 370900 nanoseconds 
+Linear Calculator output of the 20th index is:  46499 with a runtime of: 27600 nanoseconds 
+------------------------------------------------------
+Exponential Calculator ouput of the 25th index is:  978793 with a runtime of: 1941000 nanoseconds 
+Linear Calculator output of the 25th index is:  978793 with a runtime of: 31300 nanoseconds 
+------------------------------------------------------
+Exponential Calculator ouput of the 40th index is:  9129195487 with a runtime of: 10411581100 nanoseconds 
+Linear Calculator output of the 40th index is:  539260895 with a runtime of: 60800 nanoseconds 
+------------------------------------------------------
+Exponential Calculator ouput of the 10th index is:  105 with a runtime of: 10000 nanoseconds 
+Linear Calculator output of the 10th index is:  105 with a runtime of: 30100 nanoseconds 
+------------------------------------------------------
+Exponential Calculator ouput of the 6th index is:  9 with a runtime of: 4000 nanoseconds 
+Linear Calculator output of the 6th index is:  9 with a runtime of: 27000 nanoseconds 
+------------------------------------------------------
+Exponential Calculator ouput of the 7th index is:  17 with a runtime of: 4200 nanoseconds 
+Linear Calculator output of the 7th index is:  17 with a runtime of: 27000 nanoseconds 
+------------------------------------------------------------------------------------------------------------
+Exponential Calculator ouput of the 15th index is:  2209 with a runtime of: 112900 nanoseconds 
+Linear Calculator output of the 15th index is:  2209 with a runtime of: 31400 nanoseconds 
+------------------------------------------------------------------------------------------------------------
+Exponential Calculator ouput of the 10th index is:  105 with a runtime of: 11600 nanoseconds 
+Linear Calculator output of the 10th index is:  105 with a runtime of: 33800 nanoseconds 
+------------------------------------------------------------------------------------------------------------
+Exponential Calculator ouput of the 5th index is:  5 with a runtime of: 3600 nanoseconds 
+Linear Calculator output of the 5th index is:  5 with a runtime of: 36600 nanoseconds 
+------------------------------------------------------------------------------------------------------------
+Exponential Calculator ouput of the 2th index is:  1 with a runtime of: 3500 nanoseconds 
+Linear Calculator output of the 2th index is:  1 with a runtime of: 25600 nanoseconds 
+------------------------------------------------------------------------------------------------------------
+Exponential Calculator ouput of the 3th index is:  1 with a runtime of: 3100 nanoseconds 
+Linear Calculator output of the 3th index is:  1 with a runtime of: 25700 nanoseconds 
+------------------------------------------------------------------------------------------------------------
+Exponential Calculator ouput of the 4th index is:  3 with a runtime of: 3700 nanoseconds 
+Linear Calculator output of the 4th index is:  3 with a runtime of: 26400 nanoseconds 
+------------------------------------------------------------------------------------------------------------
